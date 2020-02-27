@@ -17,7 +17,7 @@
     "js-base64": "^2.4.3",
     "koa2-cors": "^2.0.6",
     "moment": "^2.21.0",
-    "mongoose": "^5.0.8",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "nodemon": "^1.17.1",
     "request": "^2.83.0",
